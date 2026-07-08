@@ -1,0 +1,38 @@
+.second {
+    background-color: darkseagreen;
+
+    box-shadow: 20px 30px 45px rgb(255, 224, 238);
+       
+}
+
+header h1 {
+   
+      position: relative;
+      left: 150px;
+}
+
+header p{
+    position: relative;
+    left: 70px;
+    top: 80px;
+}
+
+header {
+
+    height: 600px;
+    width: 1000px;
+
+    background-image: url(/my-first-github/images/grameen.jpeg);
+
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-attachment: fixed;
+
+
+
+
+
+
+
+}

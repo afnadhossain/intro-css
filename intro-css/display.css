@@ -1,0 +1,63 @@
+     * {
+            margin: 0;
+            padding: 0;
+        }
+.second {
+         background-color: azure;
+         border: 20px solid greenyellow;
+         padding: 15px;
+         
+}
+
+article h1 {
+     text-align: center;
+}
+
+article {
+         text-align: justify;
+}
+
+#first {
+        border: 5px solid black;
+}
+
+#spa {
+      color:lightskyblue ;
+      display: block;
+      border: 3px solid crimson;
+
+}
+
+#thirda {
+    color: coral;
+    border: 3px solid rgb(62, 135, 203);
+         
+}
+
+
+#seconda {
+          visibility: hidden;
+
+}
+
+#fourtha {
+
+    color: rgb(206, 36, 70);
+
+    background-color: rgb(9, 211, 211);
+
+    border: 3px solid black;
+
+    display: inline-block;
+
+    height: 100px;
+    width: 200px;
+
+
+
+   
+           
+
+
+}
+
