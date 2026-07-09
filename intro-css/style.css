@@ -1,0 +1,123 @@
+
+h1 {
+    color: thistle;
+
+}
+
+h1 {
+        background-color: cornsilk;
+        text-align: center;
+        border: 3px solid black;
+        padding: 3px;
+        margin: 5px;
+        border-radius: 20px;
+        
+}
+
+p {
+   
+    box-shadow: -20px 30px 50px rgb(255, 224, 238);
+
+}
+
+.one {
+    background-color: darkslateblue;
+}
+
+.highlight {
+            padding: 5px;
+            color:burlywood;
+}
+
+#unique {
+    padding: 5px;
+
+}
+
+.siblings {
+           background-color: deepskyblue;
+           height: 200px; width: 300px;
+           border: 3px solid black;
+           margin: 50px;
+           text-decoration: underline;
+           text-decoration-style: double;
+          
+           
+
+}
+
+#child {
+    background-color: cornsilk;
+    border: 2px solid crimson;
+    font-weight: 800;
+}
+
+
+#dibba1 {
+    height: 400px; width: 600px;
+
+    border: 5px solid black;
+
+    margin: 10px;
+
+
+}
+
+.dibba {
+    display: inline-block;
+    height: 70px; width: 80px;
+    background-color: darkseagreen;
+    border: 3px solid black;
+    margin: 5px;
+
+}
+#display {
+    display: none;
+}
+
+
+#dibba2 {
+        height: 400px; width: 600px;
+
+    border: 5px solid black;
+
+    margin: 10px;
+    
+}
+
+.dibbaa {
+        display: inline;
+      height: 70px; width: 80px;
+       background-color: crimson;
+    border: 3px solid black;
+    padding: 3px;
+    margin: 5px;
+    /* display inline deyay kichuu kaj korbe na */
+
+}
+
+
+#dibba3 {
+    
+
+        height: 400px; width: 600px;
+
+    border: 5px solid black;
+
+    margin: 10px;
+
+}
+
+.dibbaaa {
+        display: block;
+      height: 70px; width: 80px;
+       background-color: lightpink;
+    border: 3px solid black;
+    padding: 3px;
+    margin: 5px;
+
+}
+
+#visi {
+       visibility: hidden;
+}
