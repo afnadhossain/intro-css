@@ -14,7 +14,7 @@ h1 {
         
 }
 
-p {
+p:hover {
    
     box-shadow: -20px 30px 50px rgb(255, 224, 238);
 
