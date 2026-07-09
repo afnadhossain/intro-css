@@ -1,0 +1,27 @@
+
+
+nav ul {
+        border: 2px solid;
+        display: flex;
+        list-style: none;
+        justify-content: space-around;
+        background-color: lightgreen;
+}
+
+nav ul li a{
+            text-decoration: none;
+       
+
+
+}
+
+nav ul li {
+           padding: 3px;
+}
+
+nav ul li:hover{
+    background-color:lightgrey;
+
+
+
+}
